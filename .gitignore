@@ -1,0 +1,11 @@
+# Vim
+*.swp
+*.swo
+*~
+
+# macOS / Linux
+.DS_Store
+
+# Obsidian workspace state
+Notes/.obsidian/workspace.json
+Notes/.obsidian/workspace-mobile.json
